@@ -463,6 +463,62 @@ f.close()
 #############
 
 
+yello sticky note
+
+
+docker ps -as    size of container
+
+docker ps -aq
+docker rm -f $(docker ps -a -q)
+prashant.sharma@in.tesco.com
+
+
+docker images --digest
+docker history
+8032466944
+docker top containerid
+sed -i "s#projname#$project_name#" java/pipeline/pipeline.groovy
+sed 's#data:image/svg+xml.*)#"https://github.dev.global.tesco.org/raw/gkl6/Images/master/title.png?token=AAALBlCKsxwBBTkTcoF0bEWp36Kw7konks5Ypb-MwA%3D%3D")#' a.txt
+sed 's#data:image/svg+xml.*)#"https://github.dev.global.tesco.org/raw/gkl6/Images/master/title.png?token=AAALBlCKsxwBBTkTcoF0bEWp36Kw7konks5Ypb-MwA%3D%3D")#' a.txt
+
+docker network ls
+35.163.193.143
+10.0.1.32
+http://afonsof.com/jenkins-material-theme/dist/material-teal.css
+http://52.213.38.250:8083/jenkins/userContent/sample.css
+dkm password: Samsung123
+export KUBERNETES_PROVIDER=aws; wget -q -O - https://get.k8s.io | bash
+834873887160
+
+ 
+AKIAIFYXTBOPM4OJCX7A
+ML/tGgX9xq38lW2hX4eNaf+ehPO82ahpicJK3Z5B	ML/tGgX9xq38lW2hX4eNaf+ehPO82ahpicJK3Z5B	834873887160		8b03d00911a7590c2075afbf9dccdc695e3e1dd4		 
+wget https://storage.googleapis.com/kubernetes-release/release/v1.4.6/kubernetes.tar.gz - See more at: http://www.tothenew.com/blog/setup-kubernetes-cluster-on-aws-ec2/#sthash.IfagxOPp.dpuf
+09291140028410
+9971366027
+
+https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow
+http://container-solutions.com/running-docker-in-jenkins-in-docker/
+http://container-solutions.com/continuous-delivery-with-docker-on-mesos-in-less-than-a-minute/
+
+http://bencane.com/2013/07/22/ssh-disable-host-checking-for-scripts-automation/
+8b03d00911a7590c2075afbf9dccdc695e3e1dd4
+cat /dev/zero | ssh-keygen -t rsa -q -N ""
+
+http://www.stuartellis.name/articles/jenkins-pipeline/
+git checkout -b aNewBranch SHA1
+pluralsight- xebia@321
+
+tcp://34.251.132.162:2376
+https://github.dev.global.tesco.org/aurora/Spring3HibernateApp.git
+i-0fa0c850f8930c5f4
+34.249.28.75
+
+TICKET: UK/ETKT 228 1251123751 FOR SHARMA/PRASHANT MR
+
+http://172.20.1.150:8080
+10.0.1.231
+
 
 
 
